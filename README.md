@@ -34,9 +34,9 @@ Tu workflow debe:
 -   Imprimir en consola:
 
 ```{=html}
-<!-- -->
+ ¡Hola, mundo!
 ```
-    ¡Hola, mundo!
+ 
 
 ------------------------------------------------------------------------
 
